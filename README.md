@@ -2,6 +2,8 @@
 
 [![dashaun/spring-kubed-episode-0](https://circleci.com/gh/dashaun/spring-kubed-episode-0.svg?style=shield)](https://app.circleci.com/pipelines/github/dashaun/spring-kubed-episode-0)
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dashaun/spring-kubed-episode-0/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dashaun/spring-kubed-episode-0/tree/main)
+
 ## Quick Start
 
 ```bash
