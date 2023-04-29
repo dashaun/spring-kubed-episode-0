@@ -1,5 +1,8 @@
 # spring-kubed-episode-0
 
+[![dashaun/spring-kubed-episode-0](https://circleci.com/gh/dashaun/spring-kubed-episode-0.svg?style=shield)](https://app.circleci.com/pipelines/github/dashaun/spring-kubed-episode-0)
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
